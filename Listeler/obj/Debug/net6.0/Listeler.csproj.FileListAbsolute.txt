@@ -1,0 +1,5 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Listeler\obj\Debug\net6.0\Listeler.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Listeler\obj\Debug\net6.0\Listeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Listeler\obj\Debug\net6.0\Listeler.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Listeler\obj\Debug\net6.0\Listeler.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Listeler\obj\Debug\net6.0\Listeler.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\bin\Debug\net6.0\İnheritance.exe
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\bin\Debug\net6.0\İnheritance.deps.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\bin\Debug\net6.0\İnheritance.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\bin\Debug\net6.0\İnheritance.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\bin\Debug\net6.0\İnheritance.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\refint\İnheritance.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\İnheritance.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\İnheritance\obj\Debug\net6.0\ref\İnheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\bin\Debug\net6.0\VirtualMethods.exe
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\bin\Debug\net6.0\VirtualMethods.deps.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\bin\Debug\net6.0\VirtualMethods.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\bin\Debug\net6.0\VirtualMethods.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\bin\Debug\net6.0\VirtualMethods.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\refint\VirtualMethods.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\VirtualMethods.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\VirtualMethods\obj\Debug\net6.0\ref\VirtualMethods.dll

@@ -1,0 +1,15 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\bin\Debug\net6.0\AbstructClass.exe
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\bin\Debug\net6.0\AbstructClass.deps.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\bin\Debug\net6.0\AbstructClass.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\bin\Debug\net6.0\AbstructClass.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\bin\Debug\net6.0\AbstructClass.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\refint\AbstructClass.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\AbstructClass.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\AbstructClass\obj\Debug\net6.0\ref\AbstructClass.dll
