@@ -1,0 +1,14 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\bin\Debug\net6.0\Reflection.exe
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\bin\Debug\net6.0\Reflection.deps.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\bin\Debug\net6.0\Reflection.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\bin\Debug\net6.0\Reflection.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Reflection\obj\Debug\net6.0\ref\Reflection.dll
