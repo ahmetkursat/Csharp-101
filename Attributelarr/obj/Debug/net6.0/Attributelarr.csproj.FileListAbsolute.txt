@@ -1,0 +1,14 @@
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\bin\Debug\net6.0\Attributelarr.exe
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\bin\Debug\net6.0\Attributelarr.deps.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\bin\Debug\net6.0\Attributelarr.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\bin\Debug\net6.0\Attributelarr.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\bin\Debug\net6.0\Attributelarr.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\refint\Attributelarr.dll
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.pdb
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\Attributelarr.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Belgeler\GitHub\c#101\Attributelarr\obj\Debug\net6.0\ref\Attributelarr.dll
